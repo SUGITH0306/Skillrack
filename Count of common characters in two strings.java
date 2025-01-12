@@ -9,3 +9,16 @@ class Main {
         System.out.println(c);
     }
 }
+
+Example 1:
+Input:
+china
+india
+Output:
+3
+Example 2:
+Input:
+energy
+every
+Output:
+4    
