@@ -5,3 +5,16 @@ while y:s1=(s1*10)+(y%10);y//=10
 a=s+s1
 while a:s2=(s2*10)+(a%10);a//=10
 print(s2)
+
+Example 1:
+Input:
+24
+1
+Output:
+34
+Example 2:
+Input:
+305
+794
+Output:
+1
