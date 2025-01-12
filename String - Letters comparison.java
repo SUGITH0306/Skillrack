@@ -13,3 +13,22 @@ class Main {
         System.out.println(setX.equals(setY) ? "YES" : "NO");
     }
 }
+
+Example 1:
+Input:
+read
+dear
+Output:
+YES
+Example 2:
+Input:
+record
+decoder
+Output:
+YES
+Example 3:
+Input:
+energy
+synergy
+Output:
+NO    
