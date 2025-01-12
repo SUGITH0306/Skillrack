@@ -13,3 +13,22 @@ class Main {
         System.out.printf("%.2f\n", t);
     }
 }
+
+Example 1:
+Input:
+3
+1000
+1200
+400
+Output:
+1500.00
+Example 2:
+Input:
+5
+450
+500
+2000
+1600
+300
+Output:
+2760.00
