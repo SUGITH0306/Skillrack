@@ -24,3 +24,16 @@ for k in range(len(s)):
         j += 1
         continue
     i += 1
+
+Example 1:
+Input:
+midinadiazne
+3
+Output:
+madeinindiaz
+Example 2:
+Input:
+loaesfbnaiordilertenrdhdw
+5
+Output:
+lionroaredandthebirdsflew
