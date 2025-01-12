@@ -14,3 +14,18 @@ public class Main {
         System.out.println(x < 0 && y > 0 ? Math.abs(x + y) : Math.abs(x - y));
     }
 }
+
+Example Input/Output 1:
+Input:
+2
+10 9
+4 22
+Output:
+19
+Example Input/Output 2:
+Input:
+2
+-10 6
+4 -22
+Output:
+22
