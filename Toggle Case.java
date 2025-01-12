@@ -10,3 +10,14 @@ class Main {
         System.out.println(b);
     }
 }
+
+Example 1:
+Input:
+GooD mORniNg12_3
+Output:
+good MorNlnG12_3
+Example 2:
+Input:
+R@1nBow
+Output:
+r@1NbOW
