@@ -17,3 +17,28 @@ class Main {
         return n;
     }
 }
+
+Example 1:
+Input:
+20 30 40
+50 10
+Output:
+90
+Example 2:
+Input:
+50 60 10
+50 40
+Output:
+90
+Example 3:
+Input:
+40 42 60
+0 100 56
+Output:
+156
+Example 4:
+Input:
+42 -10
+22 45
+Output:
+INVALIDINPUT
