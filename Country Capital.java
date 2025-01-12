@@ -31,3 +31,23 @@ public class Main {
         }
     }
 }
+input:
+5
+Afghanistan Kabul
+Austria Vienna
+Armenia YerevanY
+Chile Santiago
+Croatia Zagreb
+Austria
+output:
+Vienna
+Example 2:
+Input:
+4
+Armenia Yerevan
+Chile Santiago
+Croatia Zagreb
+Iran Tehran
+Japan
+Output:
+NONE
