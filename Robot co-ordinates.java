@@ -14,3 +14,9 @@ public class Main {
         System.out.println("x" + x + " y" + y);
     }
 }
+
+Example Input/Output:
+If the input string is x2 yl N3 E2 Sl the output must be
+x4 y3
+If the input string is x-2 y3 Nl W3 the output must be
+x-5 y4
