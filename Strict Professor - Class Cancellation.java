@@ -18,7 +18,7 @@ public class Main {
 
 Example Input/Output 1:
 Input
-53
+5 3
 9:30
 9:30 9:38 9:31 9:32 9:31
 Output:
