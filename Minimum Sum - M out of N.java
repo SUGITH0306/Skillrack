@@ -12,3 +12,10 @@ public class Main {
         System.out.println(s);
     }
 }
+
+Example Input/Output 1:
+Input:
+5 2
+9 2 1 5 4
+Output:
+3
