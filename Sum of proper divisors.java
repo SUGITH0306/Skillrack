@@ -11,3 +11,15 @@ public class Main {
         System.out.println(sum);
     }
 }
+
+Sample Input/Output:
+Example 1:
+Input
+2
+Output:
+1
+Example 2:
+Input:
+20
+Output:
+22    
