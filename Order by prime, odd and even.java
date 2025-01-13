@@ -16,3 +16,13 @@ public class Main {
         return true;
     }
 }
+Example Input/Output 1:
+Input:
+4 5 9 22 11 2 15
+Output:
+2 5 11 9 15 4 22
+Example Input/Output 2:
+Input:
+611953 494147 493137 493133 493138
+Output:
+493133 494147 611953 493137 493138
