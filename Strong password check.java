@@ -20,3 +20,19 @@ public class Main {
         else System.out.println("INVALID");
     }
 }
+
+Example 1:
+Input:
+kiC_3bOx3r
+Output:
+VALID
+Example 2:
+Input:
+m@d31nindia
+Output:
+INVALID
+Example 3:
+Input:
+M1kT!sO
+Output:
+INVALID 
