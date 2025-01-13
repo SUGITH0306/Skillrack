@@ -27,3 +27,13 @@ public class Main {
         System.out.println(r);
     }
 }
+Example 1:
+Input:
+10 20 30 20 30 10 30 20
+Output:
+20
+Example 2:
+Input:
+1 2 3 5 9 2 9 6 9
+Output:
+9
