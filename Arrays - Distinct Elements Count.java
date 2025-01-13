@@ -16,3 +16,18 @@ public class Main {
         System.out.println(d1.size() + d2.size());
     }
 }
+
+Example Input/Output 1:
+Input:
+4 5
+1 5 9 10
+22 5 12 95
+Output:
+4
+Example Input/Output 2:
+Input
+3 2
+100 200 300
+201 600
+Output:
+5
