@@ -13,3 +13,20 @@ public class Main {
         }
     }
 }
+
+Example Input/Output 1:
+Input:
+5
+Output:
+1 6 10 13 15
+2 7 11 14
+3 8 12
+4 9
+5
+Example Input/Output 2:
+Input:
+3
+Output:
+1 4 6
+2 5
+3
