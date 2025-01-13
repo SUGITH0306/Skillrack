@@ -12,3 +12,14 @@ public class Main {
         System.out.println(new String(n));
     }
 }
+
+Example Input/Output 1:
+Input:
+12
+Output:
+21
+Example Input/Output 2:
+Input:
+195
+Output:
+519
