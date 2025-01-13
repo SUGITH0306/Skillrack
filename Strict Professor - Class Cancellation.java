@@ -15,3 +15,18 @@ public class Main {
         return Integer.parseInt(p[0]) * 60 + Integer.parseInt(p[1]);
     }
 }
+
+Example Input/Output 1:
+Input
+53
+9:30
+9:30 9:38 9:31 9:32 9:31
+Output:
+Yes
+Example Input/Output 2:
+Input:
+6 4
+11:10
+10:30 10:40 10:55 11:20 11:10 11:12
+Output:
+No 
