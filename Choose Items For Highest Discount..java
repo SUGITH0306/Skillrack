@@ -27,3 +27,11 @@ public class Main {
         System.out.println(r.isEmpty() ? "Invalid input" : r);
     }
 }
+Example Input/Output 1:
+Input:
+3
+harddisk 4000 20
+monitor 15000 10
+laptop 30000 5
+Output:
+harddisk
