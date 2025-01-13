@@ -8,3 +8,16 @@ public class Main {
         System.out.println(sum);
     }
 }
+
+Example Input/Output 1:
+Input:
+2
+1010 11
+Output:
+13
+Example Input/Output 2:
+Input:
+3
+11 201
+Output:
+23    
