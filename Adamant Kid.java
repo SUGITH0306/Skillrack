@@ -20,3 +20,16 @@ public class Main {
         }
     }
 }
+
+Example 1:
+Input:
+icecream
+4 10
+Output:
+YES
+Example 2:
+Input:
+cake
+2 12
+Output:
+NO
