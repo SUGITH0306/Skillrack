@@ -11,3 +11,22 @@ public class Main {
         System.out.printf("%.2f\n", d);
     }
 }
+
+Example 1:
+Input:
+0 4
+3 0
+Output:
+5.00
+Example 2:
+Input:
+2 2
+14 7
+Output:
+13.00
+Example 3:
+Input:
+0 0
+3 3
+Output:
+4.24
