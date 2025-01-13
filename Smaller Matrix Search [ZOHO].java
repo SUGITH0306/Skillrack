@@ -19,3 +19,26 @@ public class Main {
         System.out.println(f ? "TRUE" : "FALSE");
     }
 }
+
+Example Input/Output 1:
+Input:
+3
+2
+4 5 9
+1 3 5
+8 2 4
+3 5
+2 4
+Output:
+TRUE
+Example Input/Output 2:
+Input:
+3
+2
+4 5 9
+1 3 5
+8 2 4
+4 5
+1 4
+Output:
+FALSE
