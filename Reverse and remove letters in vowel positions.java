@@ -11,3 +11,14 @@ public class Main {
         System.out.println(res);
     }
 }
+
+Example 1:
+Input:
+environment
+Output:
+nenrine
+Example 2:
+Input:
+pond
+Output:
+dop
