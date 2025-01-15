@@ -31,3 +31,24 @@ int main() {
     printf("%d\n", (d == INT_MAX ? -1 : d));
     return 0;
 }
+Example Input/Output 1:
+Input
+the brown quick frog quick the
+the
+quick
+Output:
+1
+Example Input/Output 2:
+Input:
+the quick the brown quick brown the frog
+quick
+frog
+Output:
+3
+Example Input/Output 3:
+Input:
+There is no time like today and we hope it is the first of many many many times coming here
+many
+many
+Output:
+1
