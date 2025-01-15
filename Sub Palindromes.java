@@ -14,3 +14,14 @@ public class Main {
         System.out.println(c);
     }
 }
+
+Example 1:
+Input:
+everest
+Output:
+2
+Example 2:
+Input:
+abccbaab
+Output:
+5
