@@ -13,3 +13,10 @@ public class Main {
         System.out.println(A + " " + B);
     }
 }
+
+Example Input/Output 1:
+Input:
+3 5 1
+3 2 0
+Output:
+7 1
